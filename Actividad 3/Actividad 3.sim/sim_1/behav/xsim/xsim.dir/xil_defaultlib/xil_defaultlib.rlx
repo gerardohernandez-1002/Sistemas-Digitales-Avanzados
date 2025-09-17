@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/gerco/Downloads/Ger/Sistemas Digitales/Actividad 3/Actividad 3.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/gerco/Downloads/Ger/Sistemas Digitales/Actividad 3/Actividad 3.srcs/sim_1/new/tbact3.sv,1758086973,systemVerilog,,,,tb_sumador_consola,,uvm,,,,,,
+C:/Users/gerco/Downloads/Ger/Sistemas Digitales/Actividad 3/Actividad 3.srcs/sources_1/new/alineador_fp.sv,1758083523,systemVerilog,,C:/Users/gerco/Downloads/Ger/Sistemas Digitales/Actividad 3/Actividad 3.srcs/sources_1/new/desempaquetador_fp.sv,,alineador_fp,,uvm,,,,,,
+C:/Users/gerco/Downloads/Ger/Sistemas Digitales/Actividad 3/Actividad 3.srcs/sources_1/new/desempaquetador_fp.sv,1758083231,systemVerilog,,C:/Users/gerco/Downloads/Ger/Sistemas Digitales/Actividad 3/Actividad 3.srcs/sources_1/new/normalizador_fp.sv,,desempaquetador_fp,,uvm,,,,,,
+C:/Users/gerco/Downloads/Ger/Sistemas Digitales/Actividad 3/Actividad 3.srcs/sources_1/new/normalizador_fp.sv,1758083918,systemVerilog,,C:/Users/gerco/Downloads/Ger/Sistemas Digitales/Actividad 3/Actividad 3.srcs/sources_1/new/sumador_restador_fp.sv,,normalizador_fp,,uvm,,,,,,
+C:/Users/gerco/Downloads/Ger/Sistemas Digitales/Actividad 3/Actividad 3.srcs/sources_1/new/sumador_fp.sv,1758085663,systemVerilog,,C:/Users/gerco/Downloads/Ger/Sistemas Digitales/Actividad 3/Actividad 3.srcs/sources_1/new/alineador_fp.sv,,sumador_fp,,uvm,,,,,,
+C:/Users/gerco/Downloads/Ger/Sistemas Digitales/Actividad 3/Actividad 3.srcs/sources_1/new/sumador_restador_fp.sv,1758083720,systemVerilog,,C:/Users/gerco/Downloads/Ger/Sistemas Digitales/Actividad 3/Actividad 3.srcs/sim_1/new/tbact3.sv,,sumador_restador_fp,,uvm,,,,,,
